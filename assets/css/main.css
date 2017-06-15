@@ -1812,7 +1812,7 @@
 		form input[type="password"]:focus,
 		form select:focus,
 		form textarea:focus {
-			box-shadow: 0 0 2px 1px #8ebebc;
+			box-shadow: 0 0 2px 1px #333132;
 			background: #fff;
 		}
 
