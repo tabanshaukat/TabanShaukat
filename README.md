@@ -4,7 +4,7 @@
 I am Currently doing my BCS from National University of Computer and Emerging Sciences Karachi Pakistan, 
 
 
-you may reach me at @ enquire@tabanshaukat.me
+you may reach me at @ reachme@tabanshaukat.me
 
 ### Support or Contact Me
 
